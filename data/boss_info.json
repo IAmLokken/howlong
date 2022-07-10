@@ -1,0 +1,145 @@
+{
+    "POTD":[
+        {    
+                "Name":"Palace Deathgaze (10)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Spurge (20)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Ningishzida (30)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Ixtab (40)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Edda Blackbosom (50)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"The Black Rider (60)",
+                "HP":"100276",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Yaquaru (70)",
+                "HP":"102489",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Gudanna (80)",
+                "HP":"136025",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"The Godmother (90)",
+                "HP":"165023",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Nybeth Obdilord (100)",
+                "HP":"242942",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Alicanto (110)",
+                "HP":"196124",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Kirtimukha (120)",
+                "HP":"186163",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Alfard (130)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Ah Puch (140)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Tisiphone (150)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Totesritter (160)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Yulunggu (170)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Dendainsonne (180)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"The Godfather (190)",
+                "HP":"",
+                "MOD": "1"}
+    ],
+    "HOH":[
+        {   
+                "Name":"Mojabune (10)",
+                "HP":"88578",
+                "MOD": ".614"}
+            ,
+        {   
+                "Name":"Beccho (20)",
+                "HP":"125171",
+                "MOD": ".648"}
+            ,
+        {   
+                "Name":"Hiruko (30)",
+                "HP":"188092",
+                "MOD": ".812"}
+            ,
+        {   
+                "Name":"Bhima (40)",
+                "HP":"185629",
+                "MOD": ".943"}
+            ,
+        {   
+                "Name":"Gozu (50)",
+                "HP":"217202",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Suikazura (60)",
+                "HP":"519046",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Kenko (70)",
+                "HP":"650263",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Kajigakaka (80)",
+                "HP":"",
+                "MOD": "1"}
+            ,
+        {   
+                "Name":"Onra (90)",
+                "HP":"",
+                "MOD": "1"
+        }
+    ]
+}

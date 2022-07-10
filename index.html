@@ -2,34 +2,80 @@
     <head>
         <meta charset="utf-8" />
         <title>How Long</title>
-        <link rel="stylesheet" href="css/display.css" />
+        <link rel="stylesheet" href="css/display.css?v=Deathgaze-1.0.0" />
         <script src="lib/main.js?v=Deathgaze-1.0.0"></script>
+        <script src="lib/data.js?v=Deathgaze-1.0.0"></script>
+
+        <script>
+
+            window.addEventListener("load", (e) => {
+                LoadData();
+            });
+
+            async function LoadData()
+            {
+                await HL.LoadData();
+                HL.HideAll();
+                HL.PopulateDungeonDropdown();
+            }
+
+
+
+        </script>
+
+
     </head>
 
     <body>
-        <div>
-            <label for="DeepDungeon">Select Deep Dungeon</label>
-            <label for="Boss">Select Boss</label>
-            <label for="Job">Select Job</label>
-            <label for="Strength">Select Strength Uptime</label>
-            <label for="Frailty">Select Frailty Uptime</label>
-            <label for="Lust">Select Lust Uptime</label>
-
-            <select name="DeepDungeon" id = "DeepDungeon"></select>
-            <select name="Boss" id = "Boss"></select>
-            <select name="Job" id = "DeepDunJobgeon"></select>
-            <select name="Strength" id = "Strength"></select>
-            <select name="Frailty" id = "Frailty"></select>
-            <select name="Lust" id = "Lust"></select>
+        <div class="center">
+            <select name="DeepDungeon" id = "DeepDungeon" class="dropdown" onchange="HL.DungeonSelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Deep Dungeon</option>
+            </select>
+        </div>
+        <div class="center">
+            <select name="Job" id = "Job" class="dropdown" onchange="HL.JobSelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Job</option>
+            </select>
+        </div>
+        <div class="center">
+            <select name="Boss" id = "Boss" class="dropdown" onchange="HL.BossSelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Boss</option>
+            </select>
+        </div>
+        <div class="center">
+            <select name="Strength" id = "Strength" class="dropdown" onchange="HL.StrengthSelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Strength Uptime</option>
+            </select>
+        </div>
+        <div class="center">
+            <select name="Frailty" id = "Frailty" class="dropdown" onchange="HL.FrailtySelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Frailty Uptime</option>
+            </select>
+        </div>
+        <div class="center">
+            <select name="Lust" id = "Lust" class="dropdown" onchange="HL.LustSelected(this.selectedIndex, this.value)">
+                <option selected disabled hidden>Select Lust Uptime</option>
+            </select>
         </div>
 
-        <div>
-            <label for="DPS">Damage Per Second:</label>
-            <input type="text" id="DPS"></input>
+        <hr width=15%/>
+
+        <div class="center">
+            <label>Base DPS</label>
         </div>
 
-        <div>
-            <textarea readonly>Over 9000</textarea>
+        <div class="center">
+            <input type="text" class="input-group" id="DPS"></input>       
         </div>
+
+        <hr width=15%/>
+
+        <div class="center">
+            <label>Time to Kill</label>
+        </div>
+        <div class="center">
+            <label id="TTK">4:14</label>
+        </div>
+
     </body>
 </html>

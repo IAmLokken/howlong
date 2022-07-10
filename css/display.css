@@ -14,8 +14,9 @@ body, html {
     padding: 0;
     border: 0;
 
-    background-color: rgba(40, 40, 150, 0.5);
+    background-color: rgba(40, 40, 150, 0.726);
     padding: 5px;
+    color:ivory;
 }
 
 button{
@@ -26,6 +27,19 @@ button{
     /*border-radius: 5px;*/
     text-align: center;
 }
+.center{
+    display:flex;
+    justify-content: center;
+}
+.input-group {
+    text-align: center;
+}
+.dropdown{
+    width:175px;
+}
+.hide {
+    display:none;
+  }
 
 button:hover{
     background-color: white;
