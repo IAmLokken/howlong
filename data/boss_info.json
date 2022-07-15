@@ -18,32 +18,32 @@
         {   
                 "Name":"Ixtab (40)",
                 "HP":"",
-                "MOD": "1"}
+                "MOD": ".588"}
             ,
         {   
                 "Name":"Edda Blackbosom (50)",
                 "HP":"",
-                "MOD": "1"}
+                "MOD": ".692"}
             ,
         {   
                 "Name":"The Black Rider (60)",
                 "HP":"100276",
-                "MOD": "1"}
+                "MOD": ".767"}
             ,
         {   
                 "Name":"Yaquaru (70)",
                 "HP":"102489",
-                "MOD": "1"}
+                "MOD": ".848"}
             ,
         {   
                 "Name":"Gudanna (80)",
                 "HP":"136025",
-                "MOD": "1"}
+                "MOD": ".898"}
             ,
         {   
                 "Name":"The Godmother (90)",
                 "HP":"165023",
-                "MOD": "1"}
+                "MOD": ".954"}
             ,
         {   
                 "Name":"Nybeth Obdilord (100)",
@@ -62,7 +62,7 @@
             ,
         {   
                 "Name":"Alfard (130)",
-                "HP":"",
+                "HP":"239843",
                 "MOD": "1"}
             ,
         {   
@@ -133,12 +133,12 @@
             ,
         {   
                 "Name":"Kajigakaka (80)",
-                "HP":"",
+                "HP":"700869",
                 "MOD": "1"}
             ,
         {   
                 "Name":"Onra (90)",
-                "HP":"",
+                "HP":"791333",
                 "MOD": "1"
         }
     ]
