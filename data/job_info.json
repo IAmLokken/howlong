@@ -1,6 +1,6 @@
 {
     "POTD":[
-        { "JOB": "AST", "DPS": ""},
+        { "JOB": "AST", "DPS": "407.3"},
         { "JOB": "BLM", "DPS": ""},
         { "JOB": "BRD", "DPS": ""},
         { "JOB": "DNC", "DPS": ""},
@@ -14,11 +14,11 @@
         { "JOB": "RDM", "DPS": ""},
         { "JOB": "RPR", "DPS": ""},
         { "JOB": "SAM", "DPS": ""},
-        { "JOB": "SCH", "DPS": ""},
+        { "JOB": "SCH", "DPS": "526.35"},
         { "JOB": "SGE", "DPS": "573.8"},
         { "JOB": "SMN", "DPS": ""},
         { "JOB": "WAR", "DPS": ""},
-        { "JOB": "WHM", "DPS": ""}
+        { "JOB": "WHM", "DPS": "587.93"}
     ],
     "HOH":[
         { "JOB": "AST", "DPS": "874.41"},
