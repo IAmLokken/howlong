@@ -29,6 +29,18 @@ body, html {
     position: absolute;
     left: 45%;
 }
+.inlineblock{
+    display:inline-block;
+    flex-direction:column;
+    padding: 15px;
+}
+#strfralus{
+    display:flex;
+    flex-direction:row;
+}
+#Strength, #Frailty, #Lust{
+    width:50px;
+}
 
 button{
     background-color: rgb(0, 0, 70);
@@ -49,7 +61,7 @@ button{
     width:175px;
 }
 .hide {
-    display:none;
+    display:none !important;
   }
 
 button:hover{
