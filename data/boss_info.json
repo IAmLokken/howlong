@@ -18,32 +18,32 @@
         {   
                 "Name":"Ixtab (40)",
                 "HP":"45616",
-                "MOD": ".62"}
+                "MOD": "1.62"}
             ,
         {   
                 "Name":"Edda Blackbosom (50)",
                 "HP":"101382",
-                "MOD": ".73"}
+                "MOD": "1.38"}
             ,
         {   
                 "Name":"The Black Rider (60)",
                 "HP":"100276",
-                "MOD": ".77"}
+                "MOD": "1.3"}
             ,
         {   
                 "Name":"Yaquaru (70)",
                 "HP":"102489",
-                "MOD": ".82"}
+                "MOD": "1.23"}
             ,
         {   
                 "Name":"Gudanna (80)",
                 "HP":"136025",
-                "MOD": ".89"}
+                "MOD": "1.13"}
             ,
         {   
                 "Name":"The Godmother (90)",
                 "HP":"165023",
-                "MOD": ".96"}
+                "MOD": "1.04"}
             ,
         {   
                 "Name":"Nybeth Obdilord (100)",
@@ -99,22 +99,22 @@
         {   
                 "Name":"Mojabune (10)",
                 "HP":"88578",
-                "MOD": ".65"}
+                "MOD": "1.55"}
             ,
         {   
                 "Name":"Beccho (20)",
                 "HP":"125171",
-                "MOD": ".65"}
+                "MOD": "1.55"}
             ,
         {   
                 "Name":"Hiruko (30)",
                 "HP":"188092",
-                "MOD": ".82"}
+                "MOD": "1.23"}
             ,
         {   
                 "Name":"Bhima (40)",
                 "HP":"185629",
-                "MOD": ".95"}
+                "MOD": "1.06"}
             ,
         {   
                 "Name":"Gozu (50)",
@@ -129,7 +129,7 @@
         {   
                 "Name":"Kenko (70)",
                 "HP":"650263",
-                "MOD": ".93"}
+                "MOD": "1.07"}
             ,
         {   
                 "Name":"Kajigakaka (80)",
