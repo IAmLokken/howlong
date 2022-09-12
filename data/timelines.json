@@ -1,0 +1,339 @@
+{
+    "TIMELINES":{
+        "POTD190": 
+            {"AST": [
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 11, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 36, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+ 
+                {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+                     
+                {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+
+                {"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+                                      { "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+                                      { "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+                                      { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false }]},
+
+                {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true,
+                    "NOTES": "This is space for any notes we want to display about this specific timeline."
+                }
+                ],
+            "DEFAULT": [{}]
+            },
+            "POTD40":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 45616, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "POTD50":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 101382, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD60":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 100276, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "POTD70":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 102489, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD80":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 136025, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD90":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 25, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": 5866,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 33, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": 5866,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 38, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[	{ "TYPE": "DPS",  "DURATION": 30, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+											{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": 5866,  "MULTIPLIER": 1,    "LUST": false },
+											{ "TYPE": "DPS",  "DURATION": 33, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+											{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": 5866,  "MULTIPLIER": 1,    "LUST": false },
+											{ "TYPE": "DPS",  "DURATION": 38, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+											{ "TYPE": "HP",   "DURATION": 0, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",  "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For jobs that spend time killing orange bomb."
+                    }
+                ],
+				"AST": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
+                    }
+                ],
+				"SCH": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
+                    }
+                ],
+				"SGE": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
+                    }
+                ],
+				"WHM": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
+                    }
+                ]
+            },     			
+            "POTD100":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 242942, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "Assumes just Resos used for 2 casts each, minimal affect on average DPS."
+                    }
+                ]
+            },
+            "POTD110":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 196124, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD120":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 34, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"COUNT": -1, "STEPS":[{ "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 14388,     "MULTIPLIER": 1,    "LUST": false },
+                                            { "TYPE": "DPS", "DURATION": 60, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "For most single target jobs such as DPS!"
+                    }
+                ],
+				"AST": [
+                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 34, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                     {"COUNT": -1, "STEPS":[{ "TYPE": "AOE", "DURATION": 60,  "AOEHP": 7194,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This assumes using AoE spells on the bees+boss."
+                    }
+                ]
+            },
+            "POTD130":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 239843, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD140":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 213391, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "Assumes Resolution casts with Strength active."
+                    }
+                ]
+            },
+            "POTD150":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 81, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false }]},
+					
+					{"COUNT": 2, "STEPS":[{ "TYPE": "DPS",  "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+										  { "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true },
+										  { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false }]},
+					
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+										   { "TYPE": "AOE", "DURATION": 16,  "AOEHP": 28998,    "AOETIME": 30, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 2,    "LUST": false },
+										   { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false}]},
+					
+                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "WIP"
+                    }
+                ]
+            }, 
+            "POTD160":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 332372, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD170":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 348974, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "POTD180":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 373877, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "HOH10":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 88578, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "HOH20":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 125171, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "HOH30":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 188092, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "HOH40":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 185629, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "HOH50":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 217202, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "HOH60":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 519046, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            },
+            "HOH70":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 46, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 4,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 60, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false },
+					                        { "TYPE": "STUN", "DURATION": 4,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This assumes you will get stunned by 'Hound out of Hell'"
+                    }
+                ],
+				"NOSTUN": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 650263, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "Ignores stun with jobs that have shield. Minimum inflicts DPS down to keep in mind."
+                    }
+                ]
+            },
+            "HOH80":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 700869, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }, 
+            "HOH90":
+            {        
+                "DEFAULT": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 791333, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false }]},
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false,
+                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    }
+                ]
+            }                            
+    }
+}
