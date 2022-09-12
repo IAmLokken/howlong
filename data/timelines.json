@@ -205,39 +205,39 @@
             "POTD190": 
             {
                 "AST": [
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 11, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1 }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,   "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 11, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7 }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 65, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,   "TRANSFORMTIME": 30,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 36, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 36, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
     
                     {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                         
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
                         
                     {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,   "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,   "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                         
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 65, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,  "TRANSFORMTIME": 30,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                         
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7 }]},
                         
                     {"COUNT": 1, "STEPS":[{ "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,   "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,   "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                         
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 75, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 65, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,  "TRANSFORMTIME": 30,    "UPTIME": 0.7  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 
-                    {"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  },
+                    {"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 37, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  },
                                         { "TYPE": "STUN", "DURATION": 5,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  },
-                                        { "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  },
+                                        { "TYPE": "DPS",  "DURATION": 39, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  },
                                         { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 
                     {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60,
