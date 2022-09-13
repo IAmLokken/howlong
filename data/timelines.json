@@ -285,7 +285,7 @@
                     }
                 ],
             "DEFAULT": [
-                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["WHM"],
+                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
                         "NOTES": "This is space for any notes we want to display about this specific timeline."
                     }
                 ]
