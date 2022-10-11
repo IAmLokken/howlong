@@ -4,7 +4,7 @@
             {        
                 "DEFAULT": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 45616, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-                                            {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
+                                            {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
                                             "NOTES": "This is space for any notes we want to display about this specific timeline."
                     }
                 ]
@@ -64,39 +64,12 @@
                         "NOTES": "For jobs that spend time killing orange bomb."
                     }
                 ],
-				"AST": [
+				"EATIT": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
 					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
 					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
 					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["AST"],
-                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
-                    }
-                ],
-				"SCH": [
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
-					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
-                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["SCH"],
-                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
-                    }
-                ],
-				"SGE": [
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
-					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["SGE"],
-                        "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
-                    }
-                ],
-				"WHM": [
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 85, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 100, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
-					                        { "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": -4445,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["WHM"],
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["AST", "SCH", "WHM", "SGE", "GNB", "DRK", "PLD", "WAR", "RDM"],
                         "NOTES": "For jobs that can ignore bomb and eat the explosion damage."
                     }
                 ]
@@ -129,10 +102,10 @@
                         "NOTES": "For most single target jobs such as DPS!"
                     }
                 ],
-				"AST": [
+				"HEALERS": [
                      {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 34, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
                      {"COUNT": -1, "STEPS":[{ "TYPE": "AOE", "DURATION": 60,  "AOEHP": 7194,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["AST"],
+                    {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["AST", "SCH", "WHM", "SGE"],
                         "NOTES": "This assumes using AoE spells on the bees+boss."
                     }
                 ]
@@ -159,19 +132,36 @@
             {        
                 "DEFAULT": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 81, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
-					{"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 20,    "UPTIME": 1   }]},
 					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
 					
 					{"COUNT": 2, "STEPS":[{ "TYPE": "DPS",  "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
-										  { "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
+										  { "TYPE": "AOE",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 20,    "UPTIME": 1   },
 										  { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
 					
 					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
 										   { "TYPE": "AOE", "DURATION": 16,  "AOEHP": 28998,    "AOETIME": 30, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 2,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
 										   { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 					
-                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
-                        "NOTES": "WIP"
+                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
+                        "NOTES": "Generic"
+                    }
+                ],
+                "WHM": [
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 81, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 20,    "UPTIME": 1   }]},
+					{"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
+					
+					{"COUNT": 2, "STEPS":[{ "TYPE": "DPS",  "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
+										  { "TYPE": "DPS",  "DURATION": 16, "AOEHP": 28998, "AOETIME": 30, "DURATIONTYPE": "SEC",    "VALUE": 0,     "MULTIPLIER": 2,    "LUST": true,  "TRANSFORMTIME": 20,    "UPTIME": 1   },
+										  { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
+					
+					{"COUNT": -1, "STEPS":[{ "TYPE": "DPS", "DURATION": 96, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
+										   { "TYPE": "DPS", "DURATION": 16,  "AOEHP": 28998,    "AOETIME": 30, "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 2,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   },
+										   { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "SEC",   "VALUE": 28998,  "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
+					
+                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["WHM"],
+                        "NOTES": "WHM only"
                     }
                 ]
             }, 
@@ -189,7 +179,7 @@
                 "DEFAULT": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 348974, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
                     {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
-                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                        "NOTES": "ADJUST UPTIME"
                     }
                 ]
             },
@@ -198,7 +188,7 @@
                 "DEFAULT": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 373877, "AOEHP": 0,    "AOETIME": 0, "DURATIONTYPE": "HP",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1   }]},
                     {"LUSTRESERVECOUNT": 0, "DELAYLUST" : false, "LUSTFULLDURATION": false, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
-                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                        "NOTES": "SEPARATE TIMER FOR PRE-PUSH"
                     }
                 ]
             },
@@ -241,10 +231,10 @@
                                         { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 
                     {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["AST"],
-                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                        "NOTES": "Eats bomb explosions."
                     }
                 ],
-		    "SGE": [
+		    "HEALERS": [
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 11, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.9 }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "AOE",  "DURATION": 65, "AOEHP": 7415, "DURATIONTYPE": "HP",    "VALUE": 0,     "MULTIPLIER": 1,    "LUST": true,   "TRANSFORMTIME": 30,    "UPTIME": 0.9  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
@@ -255,7 +245,7 @@
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 65, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.9  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                         
-                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.7  }]},
+                    {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 16, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.9  }]},
                         
                     {"COUNT": 1, "STEPS":[{ "TYPE": "HP", "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 7415,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
                     {"COUNT": 1, "STEPS":[{ "TYPE": "DPS",  "DURATION": 65, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,   "TRANSFORMTIME": 60,    "UPTIME": 0.9  }]},
@@ -280,13 +270,8 @@
                                         { "TYPE": "DPS",  "DURATION": 65, "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": 0,     "MULTIPLIER": 1,    "LUST": false,  "TRANSFORMTIME": 60,    "UPTIME": 0.9  },
                                         { "TYPE": "HP",   "DURATION": 0,  "AOEHP": 0,    "DURATIONTYPE": "SEC",   "VALUE": -8170,  "MULTIPLIER": 1,    "LUST": false, "TRANSFORMTIME": 60,    "UPTIME": 1  }]},
 
-                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["SGE"],
-                        "NOTES": "This is space for any notes we want to display about this specific timeline."
-                    }
-                ],
-            "DEFAULT": [
-                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["ALL"],
-                        "NOTES": "This is space for any notes we want to display about this specific timeline."
+                    {"LUSTRESERVECOUNT": 3, "DELAYLUST" : true, "LUSTFULLDURATION": true, "TRANSFORMTIME": 60, "JOBS": ["SGE", "SCH", "WHM"],
+                        "NOTES": "Assumes killing bomb and using lusts on bomb spawn."
                     }
                 ]
             }, 
